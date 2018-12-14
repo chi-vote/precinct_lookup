@@ -1,4 +1,4 @@
-import csv, json
+import csv, json, re
 
 ### START CONFIG ###
 voter_reg_file_path = 'data/Chicago-Active-Inactive-Voters-2018-11-13.csv'
@@ -16,7 +16,8 @@ voters = [x for x in csv.DictReader(open(voter_reg_file_path))]
 # build dict
 # with keys -> address:{ward,precinct}
 for voter in voters:
-    address = voter['Address']
+    address_raw = voter['Address']
+    address = re.sub('\s+',' ',address_raw).strip()
     street_no = address.split(' ')[0]
     if street_no not in address_precincts:
         address_precincts[street_no] = {}
