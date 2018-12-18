@@ -1,1 +1,1 @@
-{"575 N LOCKWOOD AVE": {"precinct": "11", "ward": "37"}, "575 W MADISON ST": {"precinct": "41", "ward": "42"}, "575 N PINE AVE": {"precinct": "9", "ward": "37"}, "575 N LONG AVE": {"precinct": "9", "ward": "37"}}
+{"575 N LOCKWOOD AVE": {"ward": "37", "precinct": "11"}, "575 N PINE AVE": {"ward": "37", "precinct": "9"}, "575 W MADISON ST": {"ward": "42", "precinct": "41"}, "575 N LONG AVE": {"ward": "37", "precinct": "9"}}

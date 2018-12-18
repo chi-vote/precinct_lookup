@@ -1,1 +1,1 @@
-{"5671 W GROVER ST": {"precinct": "28", "ward": "45"}, "5671 W FULTON ST": {"precinct": "11", "ward": "29"}, "5671 N NORTHCOTT AVE": {"precinct": "26", "ward": "41"}, "5671 W WASHINGTON BLVD": {"precinct": "21", "ward": "29"}, "5671 N CLARK ST": {"precinct": "37", "ward": "48"}}
+{"5671 W GROVER ST": {"ward": "45", "precinct": "28"}, "5671 N NORTHCOTT AVE": {"ward": "41", "precinct": "26"}, "5671 N CLARK ST": {"ward": "48", "precinct": "37"}, "5671 W WASHINGTON BLVD": {"ward": "29", "precinct": "21"}, "5671 W FULTON ST": {"ward": "29", "precinct": "11"}}

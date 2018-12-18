@@ -1,1 +1,1 @@
-{"7780 W TALCOTT AVE": {"precinct": "8", "ward": "41"}, "7780 S EMERALD AVE": {"precinct": "10", "ward": "17"}, "7780 S KOMENSKY AVE": {"precinct": "15", "ward": "18"}}
+{"7780 W TALCOTT AVE": {"ward": "41", "precinct": "8"}, "7780 S KOMENSKY AVE": {"ward": "18", "precinct": "15"}, "7780 S COLES AVE": {"ward": "7", "precinct": "14"}, "7780 S EMERALD AVE": {"ward": "17", "precinct": "10"}}

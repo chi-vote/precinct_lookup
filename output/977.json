@@ -1,1 +1,1 @@
-{"977 W 18TH PL": {"precinct": "12", "ward": "25"}, "977 W CULLERTON ST": {"precinct": "23", "ward": "25"}, "977 E 100TH PL": {"precinct": "32", "ward": "8"}, "977 E 101ST ST": {"precinct": "32", "ward": "8"}, "977 W 19TH ST": {"precinct": "23", "ward": "25"}}
+{"977 W 18TH PL": {"ward": "25", "precinct": "12"}, "977 W 19TH ST": {"ward": "25", "precinct": "23"}, "977 E 100TH PL": {"ward": "8", "precinct": "32"}, "977 E 101ST ST": {"ward": "8", "precinct": "32"}, "977 W CULLERTON ST": {"ward": "25", "precinct": "23"}}

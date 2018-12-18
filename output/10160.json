@@ -1,1 +1,1 @@
-{"10160 S SPRINGFIELD AVE": {"precinct": "9", "ward": "19"}, "10160 S WOOD ST": {"precinct": "38", "ward": "19"}, "10160 S AVENUE L": {"precinct": "31", "ward": "10"}, "10160 S LONGWOOD DR": {"precinct": "26", "ward": "19"}}
+{"10160 S SPRINGFIELD AVE": {"ward": "19", "precinct": "9"}, "10160 S LONGWOOD DR": {"ward": "19", "precinct": "26"}, "10160 S AVENUE L": {"ward": "10", "precinct": "31"}, "10160 S WOOD ST": {"ward": "19", "precinct": "38"}}

@@ -1,1 +1,1 @@
-{"7262 W BRYN MAWR AVE": {"precinct": "43", "ward": "41"}, "7262 W PALATINE AVE": {"precinct": "37", "ward": "41"}, "7262 N MCVICKER AVE": {"precinct": "47", "ward": "41"}, "7262 W PETERSON AVE": {"precinct": "31", "ward": "41"}, "7262 W MYRTLE AVE": {"precinct": "31", "ward": "41"}}
+{"7262 W BRYN MAWR AVE": {"ward": "41", "precinct": "43"}, "7262 N MCVICKER AVE": {"ward": "41", "precinct": "47"}, "7262 W PALATINE AVE": {"ward": "41", "precinct": "37"}, "7262 W MYRTLE AVE": {"ward": "41", "precinct": "31"}, "7262 W PETERSON AVE": {"ward": "41", "precinct": "31"}}

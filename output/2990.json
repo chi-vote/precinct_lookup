@@ -1,1 +1,1 @@
-{"2990 S ARCHER AVE": {"precinct": "1", "ward": "11"}, "2990 S PRINCETON AVE": {"precinct": "14", "ward": "11"}, "2990 N MILWAUKEE AVE": {"precinct": "24", "ward": "30"}}
+{"2990 S ARCHER AVE": {"ward": "11", "precinct": "1"}, "2990 N MILWAUKEE AVE": {"ward": "30", "precinct": "24"}, "2990 S PRINCETON AVE": {"ward": "11", "precinct": "14"}}

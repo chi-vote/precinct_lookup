@@ -1,1 +1,1 @@
-{"4761 N KEYSTONE AVE": {"precinct": "31", "ward": "39"}, "4761 N LUNA AVE": {"precinct": "16", "ward": "45"}, "4761 N LINCOLN AVE": {"precinct": "20", "ward": "47"}, "4761 N MILWAUKEE AVE": {"precinct": "16", "ward": "45"}, "4761 N LONG AVE": {"precinct": "16", "ward": "45"}}
+{"4761 N LONG AVE": {"ward": "45", "precinct": "16"}, "4761 N KEYSTONE AVE": {"ward": "39", "precinct": "31"}, "4761 N MILWAUKEE AVE": {"ward": "45", "precinct": "16"}, "4761 N LUNA AVE": {"ward": "45", "precinct": "16"}, "4761 N LINCOLN AVE": {"ward": "47", "precinct": "20"}}

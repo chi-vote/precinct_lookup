@@ -1,1 +1,1 @@
-{"3180 N CLARK ST": {"precinct": "20", "ward": "44"}, "3180 N LAKE SHORE DR": {"precinct": "3", "ward": "44"}, "3180 N MILWAUKEE AVE": {"precinct": "25", "ward": "30"}}
+{"3180 N MILWAUKEE AVE": {"ward": "30", "precinct": "25"}, "3180 N CLARK ST": {"ward": "44", "precinct": "20"}, "3180 N LAKE SHORE DR": {"ward": "44", "precinct": "3"}}

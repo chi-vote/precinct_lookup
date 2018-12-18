@@ -1,1 +1,1 @@
-{"5091 W MONROE ST": {"precinct": "12", "ward": "28"}, "5091 W JACKSON BLVD": {"precinct": "31", "ward": "28"}, "5091 W GLADYS AVE": {"precinct": "2", "ward": "29"}, "5091 W VAN BUREN ST": {"precinct": "2", "ward": "29"}, "5091 N KIMBERLY AVE": {"precinct": "11", "ward": "39"}}
+{"5091 W JACKSON BLVD": {"ward": "28", "precinct": "31"}, "5091 N KIMBERLY AVE": {"ward": "39", "precinct": "11"}, "5091 W VAN BUREN ST": {"ward": "29", "precinct": "2"}, "5091 W MONROE ST": {"ward": "28", "precinct": "12"}, "5091 W GLADYS AVE": {"ward": "29", "precinct": "2"}}

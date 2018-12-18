@@ -1,1 +1,1 @@
-{"975 W 37TH PL": {"precinct": "25", "ward": "11"}, "975 E 100TH PL": {"precinct": "32", "ward": "8"}, "975 E 101ST ST": {"precinct": "32", "ward": "8"}, "975 W 19TH ST": {"precinct": "23", "ward": "25"}}
+{"975 W 19TH ST": {"ward": "25", "precinct": "23"}, "975 E 100TH PL": {"ward": "8", "precinct": "32"}, "975 E 101ST ST": {"ward": "8", "precinct": "32"}, "975 W 37TH PL": {"ward": "11", "precinct": "25"}}

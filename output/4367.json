@@ -1,1 +1,1 @@
-{"4367 S LAKE PARK AVE": {"precinct": "5", "ward": "4"}, "4367 W 25TH PL": {"precinct": "6", "ward": "22"}, "4367 W 26TH ST": {"precinct": "6", "ward": "22"}, "4367 W 25TH ST": {"precinct": "6", "ward": "22"}}
+{"4367 S LAKE PARK AVE": {"ward": "4", "precinct": "5"}, "4367 W 25TH PL": {"ward": "22", "precinct": "6"}, "4367 W 25TH ST": {"ward": "22", "precinct": "6"}, "4367 W 26TH ST": {"ward": "22", "precinct": "6"}}

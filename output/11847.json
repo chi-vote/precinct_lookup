@@ -1,1 +1,1 @@
-{"11847 S LONGWOOD DR": {"precinct": "49", "ward": "19"}, "11847 S MICHIGAN AVE": {"precinct": "7", "ward": "9"}, "11847 S VINCENNES AVE": {"precinct": "19", "ward": "34"}, "11847 S LAFAYETTE AVE": {"precinct": "9", "ward": "34"}, "11847 S OAKLEY AVE": {"precinct": "20", "ward": "19"}}
+{"11847 S LONGWOOD DR": {"ward": "19", "precinct": "49"}, "11847 S OAKLEY AVE": {"ward": "19", "precinct": "20"}, "11847 S VINCENNES AVE": {"ward": "34", "precinct": "19"}, "11847 S LAFAYETTE AVE": {"ward": "34", "precinct": "9"}, "11847 S MICHIGAN AVE": {"ward": "9", "precinct": "7"}}

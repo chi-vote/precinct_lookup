@@ -1,1 +1,1 @@
-{"5685 N LAS CASAS AVE": {"precinct": "43", "ward": "39"}, "5685 N LINCOLN AVE": {"precinct": "2", "ward": "40"}, "5685 W GOODMAN ST": {"precinct": "20", "ward": "45"}, "5685 N NEW HAMPSHIRE AVE": {"precinct": "46", "ward": "41"}}
+{"5685 N LAS CASAS AVE": {"ward": "39", "precinct": "43"}, "5685 N LINCOLN AVE": {"ward": "40", "precinct": "2"}, "5685 W GOODMAN ST": {"ward": "45", "precinct": "20"}, "5685 N NEW HAMPSHIRE AVE": {"ward": "41", "precinct": "46"}}

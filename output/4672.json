@@ -1,1 +1,1 @@
-{"4672 W 82ND PL": {"precinct": "24", "ward": "18"}, "4672 W 84TH PL": {"precinct": "24", "ward": "18"}, "4672 N MANOR AVE": {"precinct": "24", "ward": "33"}, "4672 N KASSON AVE": {"precinct": "6", "ward": "39"}, "4672 N LECLAIRE AVE": {"precinct": "15", "ward": "45"}}
+{"4672 W 82ND PL": {"ward": "18", "precinct": "24"}, "4672 N LECLAIRE AVE": {"ward": "45", "precinct": "15"}, "4672 N MANOR AVE": {"ward": "33", "precinct": "24"}, "4672 N KASSON AVE": {"ward": "39", "precinct": "6"}, "4672 W 84TH PL": {"ward": "18", "precinct": "24"}}

@@ -1,1 +1,1 @@
-{"2365 N NEWLAND AVE": {"precinct": "27", "ward": "36"}, "2365 E 103RD ST": {"precinct": "45", "ward": "7"}, "2365 N WAYNE AVE": {"precinct": "22", "ward": "2"}, "2365 W CHASE AVE": {"precinct": "8", "ward": "50"}, "2365 E 70TH PL": {"precinct": "26", "ward": "5"}}
+{"2365 N NEWLAND AVE": {"ward": "36", "precinct": "27"}, "2365 E 70TH PL": {"ward": "5", "precinct": "26"}, "2365 N WAYNE AVE": {"ward": "2", "precinct": "22"}, "2365 W CHASE AVE": {"ward": "50", "precinct": "8"}, "2365 E 103RD ST": {"ward": "7", "precinct": "45"}}

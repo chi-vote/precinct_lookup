@@ -1,1 +1,1 @@
-{"1280 W ARDMORE AVE": {"precinct": "40", "ward": "48"}, "1280 W 71ST PL": {"precinct": "22", "ward": "6"}, "1280 W VICTORIA ST": {"precinct": "1", "ward": "48"}, "1280 W 73RD ST": {"precinct": "5", "ward": "17"}, "1280 W 74TH ST": {"precinct": "5", "ward": "17"}}
+{"1280 W VICTORIA ST": {"ward": "48", "precinct": "1"}, "1280 W 73RD ST": {"ward": "17", "precinct": "5"}, "1280 W 74TH ST": {"ward": "17", "precinct": "5"}, "1280 W 71ST PL": {"ward": "6", "precinct": "22"}, "1280 W ARDMORE AVE": {"ward": "48", "precinct": "40"}}

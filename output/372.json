@@ -1,1 +1,1 @@
-{"372 E 116TH ST": {"precinct": "28", "ward": "9"}, "372 E 88TH PL": {"precinct": "12", "ward": "9"}, "372 N HAMLIN AVE": {"precinct": "3", "ward": "37"}, "372 E 69TH ST": {"precinct": "28", "ward": "20"}, "372 N AVERS AVE": {"precinct": "3", "ward": "37"}}
+{"372 E 88TH PL": {"ward": "9", "precinct": "12"}, "372 E 116TH ST": {"ward": "9", "precinct": "28"}, "372 N HAMLIN AVE": {"ward": "37", "precinct": "3"}, "372 E 69TH ST": {"ward": "20", "precinct": "28"}, "372 N AVERS AVE": {"ward": "37", "precinct": "3"}}

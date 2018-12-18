@@ -1,1 +1,1 @@
-{"13322 S AVENUE O": {"precinct": "2", "ward": "10"}, "13322 S CORLISS AVE": {"precinct": "15", "ward": "9"}, "13322 S AVENUE L": {"precinct": "3", "ward": "10"}, "13322 S HOUSTON AVE": {"precinct": "17", "ward": "10"}, "13322 S COMMERCIAL AVE": {"precinct": "17", "ward": "10"}}
+{"13322 S CORLISS AVE": {"ward": "9", "precinct": "15"}, "13322 S HOUSTON AVE": {"ward": "10", "precinct": "17"}, "13322 S AVENUE O": {"ward": "10", "precinct": "2"}, "13322 S AVENUE L": {"ward": "10", "precinct": "3"}, "13322 S COMMERCIAL AVE": {"ward": "10", "precinct": "17"}}

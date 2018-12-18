@@ -1,1 +1,1 @@
-{"13328 S BUFFALO AVE": {"precinct": "5", "ward": "10"}, "13328 S CARONDOLET AVE": {"precinct": "17", "ward": "10"}, "13328 S RIVERDALE AVE": {"precinct": "33", "ward": "9"}, "13328 S HOUSTON AVE": {"precinct": "17", "ward": "10"}, "13328 S BURLEY AVE": {"precinct": "16", "ward": "10"}}
+{"13328 S BUFFALO AVE": {"ward": "10", "precinct": "5"}, "13328 S BURLEY AVE": {"ward": "10", "precinct": "16"}, "13328 S CARONDOLET AVE": {"ward": "10", "precinct": "17"}, "13328 S HOUSTON AVE": {"ward": "10", "precinct": "17"}, "13328 S RIVERDALE AVE": {"ward": "9", "precinct": "33"}}

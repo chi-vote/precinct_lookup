@@ -1,1 +1,1 @@
-{"9902 S FOREST AVE": {"precinct": "51", "ward": "9"}, "9902 S LA SALLE ST": {"precinct": "30", "ward": "9"}, "9902 S YATES AVE": {"precinct": "43", "ward": "7"}, "9902 S LAFAYETTE AVE": {"precinct": "30", "ward": "9"}, "9902 S MALTA ST": {"precinct": "49", "ward": "34"}}
+{"9902 S LA SALLE ST": {"ward": "9", "precinct": "30"}, "9902 S LAFAYETTE AVE": {"ward": "9", "precinct": "30"}, "9902 S MALTA ST": {"ward": "34", "precinct": "49"}, "9902 S FOREST AVE": {"ward": "9", "precinct": "51"}, "9902 S YATES AVE": {"ward": "7", "precinct": "43"}}

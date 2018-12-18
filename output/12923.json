@@ -1,1 +1,1 @@
-{"12923 S NORMAL AVE": {"precinct": "39", "ward": "9"}, "12923 S COMMERCIAL AVE": {"precinct": "24", "ward": "10"}, "12923 S LOWE AVE": {"precinct": "19", "ward": "9"}, "12923 S WALLACE ST": {"precinct": "19", "ward": "9"}, "12923 S EXCHANGE AVE": {"precinct": "24", "ward": "10"}}
+{"12923 S NORMAL AVE": {"ward": "9", "precinct": "39"}, "12923 S WALLACE ST": {"ward": "9", "precinct": "19"}, "12923 S LOWE AVE": {"ward": "9", "precinct": "19"}, "12923 S COMMERCIAL AVE": {"ward": "10", "precinct": "24"}, "12923 S EXCHANGE AVE": {"ward": "10", "precinct": "24"}}

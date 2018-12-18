@@ -1,1 +1,1 @@
-{"5677 N LAS CASAS AVE": {"precinct": "43", "ward": "39"}, "5677 N NORTHCOTT AVE": {"precinct": "26", "ward": "41"}, "5677 N NEW HAMPSHIRE AVE": {"precinct": "46", "ward": "41"}, "5677 W HIGGINS AVE": {"precinct": "28", "ward": "45"}}
+{"5677 N LAS CASAS AVE": {"ward": "39", "precinct": "43"}, "5677 W HIGGINS AVE": {"ward": "45", "precinct": "28"}, "5677 N NEW HAMPSHIRE AVE": {"ward": "41", "precinct": "46"}, "5677 N NORTHCOTT AVE": {"ward": "41", "precinct": "26"}}

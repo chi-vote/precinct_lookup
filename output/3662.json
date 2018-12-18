@@ -1,1 +1,1 @@
-{"3662 S PAULINA ST": {"precinct": "23", "ward": "12"}, "3662 W GEORGE ST": {"precinct": "24", "ward": "30"}, "3662 W 113TH ST": {"precinct": "11", "ward": "19"}, "3662 S MARSHFIELD AVE": {"precinct": "23", "ward": "12"}}
+{"3662 S PAULINA ST": {"ward": "12", "precinct": "23"}, "3662 W 113TH ST": {"ward": "19", "precinct": "11"}, "3662 S MARSHFIELD AVE": {"ward": "12", "precinct": "23"}, "3662 W GEORGE ST": {"ward": "30", "precinct": "24"}}

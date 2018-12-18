@@ -1,1 +1,1 @@
-{"678 N PEORIA ST": {"precinct": "1", "ward": "27"}, "678 E 133RD ST": {"precinct": "15", "ward": "9"}, "678 N DEARBORN ST": {"precinct": "39", "ward": "42"}, "678 N ORLEANS ST": {"precinct": "15", "ward": "42"}}
+{"678 E 133RD ST": {"ward": "9", "precinct": "15"}, "678 N PEORIA ST": {"ward": "27", "precinct": "1"}, "678 N ORLEANS ST": {"ward": "42", "precinct": "15"}, "678 N DEARBORN ST": {"ward": "42", "precinct": "39"}}

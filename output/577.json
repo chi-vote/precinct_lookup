@@ -1,1 +1,1 @@
-{"577 W HAWTHORNE PL": {"precinct": "12", "ward": "44"}, "577 E 104TH PL": {"precinct": "1", "ward": "9"}, "577 W BELMONT AVE": {"precinct": "28", "ward": "44"}}
+{"577 W HAWTHORNE PL": {"ward": "44", "precinct": "12"}, "577 E 104TH PL": {"ward": "9", "precinct": "1"}, "577 W BELMONT AVE": {"ward": "44", "precinct": "28"}}

@@ -1,1 +1,1 @@
-{"3366 S MICHIGAN AVE": {"precinct": "41", "ward": "3"}, "3366 W COLUMBUS AVE": {"precinct": "23", "ward": "18"}, "3366 N CLARK ST": {"precinct": "20", "ward": "44"}, "3366 N CENTRAL AVE": {"precinct": "20", "ward": "36"}, "3366 S CALUMET AVE": {"precinct": "36", "ward": "4"}}
+{"3366 S CALUMET AVE": {"ward": "4", "precinct": "36"}, "3366 W COLUMBUS AVE": {"ward": "18", "precinct": "23"}, "3366 N CLARK ST": {"ward": "44", "precinct": "20"}, "3366 S MICHIGAN AVE": {"ward": "3", "precinct": "41"}, "3366 N CENTRAL AVE": {"ward": "36", "precinct": "20"}}

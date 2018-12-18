@@ -1,1 +1,1 @@
-{"12320 S EMERALD AVE": {"precinct": "31", "ward": "34"}, "12320 S LA SALLE ST": {"precinct": "4", "ward": "9"}, "12320 S UNION AVE": {"precinct": "31", "ward": "34"}, "12320 S WALLACE ST": {"precinct": "3", "ward": "34"}}
+{"12320 S EMERALD AVE": {"ward": "34", "precinct": "31"}, "12320 S WALLACE ST": {"ward": "34", "precinct": "3"}, "12320 S UNION AVE": {"ward": "34", "precinct": "31"}, "12320 S LA SALLE ST": {"ward": "9", "precinct": "4"}}

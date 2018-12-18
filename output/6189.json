@@ -1,1 +1,1 @@
-{"6189 N MCCLELLAN AVE": {"precinct": "27", "ward": "39"}, "6189 N CALDWELL AVE": {"precinct": "44", "ward": "39"}, "6189 N PRESCOTT AVE": {"precinct": "27", "ward": "39"}, "6189 N OZANAM AVE": {"precinct": "18", "ward": "41"}}
+{"6189 N MCCLELLAN AVE": {"ward": "39", "precinct": "27"}, "6189 N OZANAM AVE": {"ward": "41", "precinct": "18"}, "6189 N PRESCOTT AVE": {"ward": "39", "precinct": "27"}, "6189 N CALDWELL AVE": {"ward": "39", "precinct": "44"}}

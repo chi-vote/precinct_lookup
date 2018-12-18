@@ -1,1 +1,1 @@
-{"11810 S VINCENNES AVE": {"precinct": "17", "ward": "34"}, "11810 S LAFAYETTE AVE": {"precinct": "9", "ward": "34"}, "11810 S ARTESIAN AVE": {"precinct": "47", "ward": "19"}, "11810 S LONGWOOD DR": {"precinct": "49", "ward": "19"}, "11810 S HALE AVE": {"precinct": "49", "ward": "19"}}
+{"11810 S LAFAYETTE AVE": {"ward": "34", "precinct": "9"}, "11810 S LONGWOOD DR": {"ward": "19", "precinct": "49"}, "11810 S HALE AVE": {"ward": "19", "precinct": "49"}, "11810 S ARTESIAN AVE": {"ward": "19", "precinct": "47"}, "11810 S VINCENNES AVE": {"ward": "34", "precinct": "17"}}

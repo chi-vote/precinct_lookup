@@ -1,1 +1,1 @@
-{"4471 S LAKE PARK AVE": {"precinct": "10", "ward": "4"}, "4471 S OAKENWALD AVE": {"precinct": "10", "ward": "4"}, "4471 N KEOKUK AVE": {"precinct": "19", "ward": "39"}, "4471 N FORESTVIEW AVE": {"precinct": "2", "ward": "38"}}
+{"4471 S LAKE PARK AVE": {"ward": "4", "precinct": "10"}, "4471 N KEOKUK AVE": {"ward": "39", "precinct": "19"}, "4471 N FORESTVIEW AVE": {"ward": "38", "precinct": "2"}, "4471 S OAKENWALD AVE": {"ward": "4", "precinct": "10"}}

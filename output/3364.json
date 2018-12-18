@@ -1,1 +1,1 @@
-{"3364 S LITUANICA AVE": {"precinct": "19", "ward": "11"}, "3364 S PRAIRIE AVE": {"precinct": "7", "ward": "3"}, "3364 S HALSTED ST": {"precinct": "19", "ward": "11"}, "3364 S CALUMET AVE": {"precinct": "36", "ward": "4"}, "3364 W COLUMBUS AVE": {"precinct": "23", "ward": "18"}}
+{"3364 S LITUANICA AVE": {"ward": "11", "precinct": "19"}, "3364 W COLUMBUS AVE": {"ward": "18", "precinct": "23"}, "3364 S PRAIRIE AVE": {"ward": "3", "precinct": "7"}, "3364 S HALSTED ST": {"ward": "11", "precinct": "19"}, "3364 S CALUMET AVE": {"ward": "4", "precinct": "36"}}

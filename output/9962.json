@@ -1,1 +1,1 @@
-{"9962 S BEVERLY AVE": {"precinct": "49", "ward": "34"}, "9962 S AVENUE H": {"precinct": "22", "ward": "10"}, "9962 S MALTA ST": {"precinct": "49", "ward": "34"}, "9962 S EXCHANGE AVE": {"precinct": "21", "ward": "10"}}
+{"9962 S BEVERLY AVE": {"ward": "34", "precinct": "49"}, "9962 S MALTA ST": {"ward": "34", "precinct": "49"}, "9962 S EXCHANGE AVE": {"ward": "10", "precinct": "21"}, "9962 S AVENUE H": {"ward": "10", "precinct": "22"}}

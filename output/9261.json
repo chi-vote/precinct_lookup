@@ -1,1 +1,1 @@
-{"9261 S PEORIA ST": {"precinct": "46", "ward": "21"}, "9261 S SANGAMON ST": {"precinct": "46", "ward": "21"}, "9261 S BELL AVE": {"precinct": "5", "ward": "19"}, "9261 S BURNSIDE AVE": {"precinct": "25", "ward": "9"}}
+{"9261 S PEORIA ST": {"ward": "21", "precinct": "46"}, "9261 S BURNSIDE AVE": {"ward": "9", "precinct": "25"}, "9261 S BELL AVE": {"ward": "19", "precinct": "5"}, "9261 S SANGAMON ST": {"ward": "21", "precinct": "46"}}

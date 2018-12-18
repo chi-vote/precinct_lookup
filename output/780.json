@@ -1,1 +1,1 @@
-{"780 S FEDERAL st": {"precinct": "17", "ward": "4"}, "780 S HALSTED ST": {"precinct": "7", "ward": "11"}, "780 E 100TH PL": {"precinct": "39", "ward": "8"}, "780 S FEDERAL ST": {"precinct": "17", "ward": "4"}}
+{"780 S FEDERAL ST": {"ward": "4", "precinct": "17"}, "780 S HALSTED ST": {"ward": "11", "precinct": "7"}, "780 S FEDERAL": {"ward": "4", "precinct": "17"}, "780 E 100TH PL": {"ward": "8", "precinct": "39"}}

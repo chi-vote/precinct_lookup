@@ -1,1 +1,1 @@
-{"8460 S MARYLAND AVE": {"precinct": "40", "ward": "8"}, "8460 W SUNNYSIDE AVE": {"precinct": "12", "ward": "38"}, "8460 W BRODMAN AVE": {"precinct": "2", "ward": "38"}, "8460 W WILSON AVE": {"precinct": "12", "ward": "38"}, "8460 S WOLCOTT AVE": {"precinct": "7", "ward": "21"}}
+{"8460 S MARYLAND AVE": {"ward": "8", "precinct": "40"}, "8460 S WOLCOTT AVE": {"ward": "21", "precinct": "7"}, "8460 W BRODMAN AVE": {"ward": "38", "precinct": "2"}, "8460 W SUNNYSIDE AVE": {"ward": "38", "precinct": "12"}, "8460 W WILSON AVE": {"ward": "38", "precinct": "12"}}

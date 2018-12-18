@@ -1,1 +1,1 @@
-{"1880 N HOYNE AVE": {"precinct": "4", "ward": "32"}, "1880 N MAUD AVE": {"precinct": "23", "ward": "43"}, "1880 N DAMEN AVE": {"precinct": "4", "ward": "32"}, "1880 N POE ST": {"precinct": "10", "ward": "43"}, "1880 N LARRABEE ST": {"precinct": "3", "ward": "43"}}
+{"1880 N DAMEN AVE": {"ward": "32", "precinct": "4"}, "1880 N HOYNE AVE": {"ward": "32", "precinct": "4"}, "1880 N POE ST": {"ward": "43", "precinct": "10"}, "1880 N MAUD AVE": {"ward": "43", "precinct": "23"}, "1880 N LARRABEE ST": {"ward": "43", "precinct": "3"}}

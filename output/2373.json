@@ -1,1 +1,1 @@
-{"2373 N NEWLAND AVE": {"precinct": "27", "ward": "36"}, "2373 E 70TH PL": {"precinct": "26", "ward": "5"}, "2373 N MILWAUKEE AVE": {"precinct": "19", "ward": "1"}, "2373 E 70TH ST": {"precinct": "29", "ward": "5"}}
+{"2373 N NEWLAND AVE": {"ward": "36", "precinct": "27"}, "2373 N MILWAUKEE AVE": {"ward": "1", "precinct": "19"}, "2373 E 70TH ST": {"ward": "5", "precinct": "29"}, "2373 E 70TH PL": {"ward": "5", "precinct": "26"}}

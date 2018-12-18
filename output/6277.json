@@ -1,1 +1,1 @@
-{"6277 N KOLMAR AVE": {"precinct": "15", "ward": "39"}, "6277 N KNOX AVE": {"precinct": "42", "ward": "39"}, "6277 N LEONA AVE": {"precinct": "45", "ward": "39"}}
+{"6277 N KOLMAR AVE": {"ward": "39", "precinct": "15"}, "6277 N LEONA AVE": {"ward": "39", "precinct": "45"}, "6277 N KNOX AVE": {"ward": "39", "precinct": "42"}}

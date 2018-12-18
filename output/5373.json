@@ -1,1 +1,1 @@
-{"5373 N MAGNET AVE": {"precinct": "38", "ward": "45"}, "5373 N NORMANDY AVE": {"precinct": "45", "ward": "45"}, "5373 N OCONTO AVE": {"precinct": "36", "ward": "41"}, "5373 N BOWMANVILLE AVE": {"precinct": "21", "ward": "40"}, "5373 N LYNCH AVE": {"precinct": "36", "ward": "45"}}
+{"5373 N MAGNET AVE": {"ward": "45", "precinct": "38"}, "5373 N NORMANDY AVE": {"ward": "45", "precinct": "45"}, "5373 N BOWMANVILLE AVE": {"ward": "40", "precinct": "21"}, "5373 N OCONTO AVE": {"ward": "41", "precinct": "36"}, "5373 N LYNCH AVE": {"ward": "45", "precinct": "36"}}

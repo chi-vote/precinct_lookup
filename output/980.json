@@ -1,1 +1,1 @@
-{"980 E 100TH PL": {"precinct": "39", "ward": "8"}, "980 W CULLERTON ST": {"precinct": "23", "ward": "25"}, "980 N MICHIGAN AVE": {"precinct": "34", "ward": "42"}, "980 S PARK TER": {"precinct": "16", "ward": "4"}}
+{"980 E 100TH PL": {"ward": "8", "precinct": "39"}, "980 N MICHIGAN AVE": {"ward": "42", "precinct": "34"}, "980 S PARK TER": {"ward": "4", "precinct": "16"}, "980 W CULLERTON ST": {"ward": "25", "precinct": "23"}}

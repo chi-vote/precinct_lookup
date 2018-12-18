@@ -1,1 +1,1 @@
-{"10861 S AVENUE F": {"precinct": "32", "ward": "10"}, "10861 S RACINE AVE": {"precinct": "47", "ward": "34"}, "10861 S WESTERN AVE": {"precinct": "40", "ward": "19"}, "10861 S AVENUE E": {"precinct": "19", "ward": "10"}, "10861 S PROSPECT AVE": {"precinct": "43", "ward": "19"}}
+{"10861 S AVENUE E": {"ward": "10", "precinct": "19"}, "10861 S WESTERN AVE": {"ward": "19", "precinct": "40"}, "10861 S AVENUE F": {"ward": "10", "precinct": "32"}, "10861 S PROSPECT AVE": {"ward": "19", "precinct": "43"}, "10861 S RACINE AVE": {"ward": "34", "precinct": "47"}}

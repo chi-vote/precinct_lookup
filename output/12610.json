@@ -1,1 +1,1 @@
-{"12610 S EMERALD AVE": {"precinct": "26", "ward": "34"}, "12610 S UNION AVE": {"precinct": "26", "ward": "34"}, "12610 S STEWART AVE": {"precinct": "39", "ward": "9"}, "12610 S MICHIGAN AVE": {"precinct": "41", "ward": "9"}, "12610 S STATE ST": {"precinct": "44", "ward": "9"}}
+{"12610 S STEWART AVE": {"ward": "9", "precinct": "39"}, "12610 S STATE ST": {"ward": "9", "precinct": "44"}, "12610 S EMERALD AVE": {"ward": "34", "precinct": "26"}, "12610 S UNION AVE": {"ward": "34", "precinct": "26"}, "12610 S MICHIGAN AVE": {"ward": "9", "precinct": "41"}}

@@ -1,1 +1,1 @@
-{"6266 N NEWARK AVE": {"precinct": "22", "ward": "41"}, "6266 N LEONA AVE": {"precinct": "44", "ward": "39"}, "6266 N CICERO AVE": {"precinct": "15", "ward": "39"}, "6266 S GULLIKSON RD": {"precinct": "18", "ward": "23"}, "6266 N NIAGARA AVE": {"precinct": "22", "ward": "41"}}
+{"6266 N CICERO AVE": {"ward": "39", "precinct": "15"}, "6266 N NEWARK AVE": {"ward": "41", "precinct": "22"}, "6266 S GULLIKSON RD": {"ward": "23", "precinct": "18"}, "6266 N NIAGARA AVE": {"ward": "41", "precinct": "22"}, "6266 N LEONA AVE": {"ward": "39", "precinct": "44"}}

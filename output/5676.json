@@ -1,1 +1,1 @@
-{"5676 W ADAMS ST": {"precinct": "19", "ward": "29"}, "5676 N ELSTON AVE": {"precinct": "37", "ward": "45"}, "5676 W WASHINGTON BLVD": {"precinct": "21", "ward": "29"}, "5676 N NEVA AVE": {"precinct": "46", "ward": "41"}, "5676 N RIDGE AVE": {"precinct": "44", "ward": "48"}}
+{"5676 W WASHINGTON BLVD": {"ward": "29", "precinct": "21"}, "5676 N RIDGE AVE": {"ward": "48", "precinct": "44"}, "5676 W ADAMS ST": {"ward": "29", "precinct": "19"}, "5676 N ELSTON AVE": {"ward": "45", "precinct": "37"}, "5676 N NEVA AVE": {"ward": "41", "precinct": "46"}}

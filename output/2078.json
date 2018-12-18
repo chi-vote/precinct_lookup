@@ -1,1 +1,1 @@
-{"2078 W LUNT AVE": {"precinct": "7", "ward": "50"}, "2078 N MILWAUKEE AVE": {"precinct": "13", "ward": "1"}, "2078 W HOPKINS PL": {"precinct": "56", "ward": "19"}, "2078 N CAMPBELL AVE": {"precinct": "9", "ward": "1"}}
+{"2078 W LUNT AVE": {"ward": "50", "precinct": "7"}, "2078 W GREENLEAF AVE": {"ward": "50", "precinct": "7"}, "2078 W HOPKINS PL": {"ward": "19", "precinct": "56"}, "2078 N CAMPBELL AVE": {"ward": "1", "precinct": "9"}, "2078 N MILWAUKEE AVE": {"ward": "1", "precinct": "13"}}

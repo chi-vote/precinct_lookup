@@ -1,1 +1,1 @@
-{"5266 N CICERO AVE": {"precinct": "41", "ward": "39"}, "5266 S KNOX AVE": {"precinct": "18", "ward": "14"}, "5266 N LIANO AVE": {"precinct": "35", "ward": "45"}, "5266 N LIND AVE": {"precinct": "35", "ward": "45"}, "5266 N LARNED AVE": {"precinct": "35", "ward": "45"}}
+{"5266 N LARNED AVE": {"ward": "45", "precinct": "35"}, "5266 S KNOX AVE": {"ward": "14", "precinct": "18"}, "5266 N CICERO AVE": {"ward": "39", "precinct": "41"}, "5266 N LIANO AVE": {"ward": "45", "precinct": "35"}, "5266 N LIND AVE": {"ward": "45", "precinct": "35"}}

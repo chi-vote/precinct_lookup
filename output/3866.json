@@ -1,1 +1,1 @@
-{"3866 S LAKE PARK AVE": {"precinct": "4", "ward": "4"}, "3866 S ELLIS AVE": {"precinct": "30", "ward": "4"}, "3866 W 108TH PL": {"precinct": "16", "ward": "19"}, "3866 N OTTAWA AVE": {"precinct": "13", "ward": "38"}, "3866 N MILWAUKEE AVE": {"precinct": "8", "ward": "45"}}
+{"3866 S ELLIS AVE": {"ward": "4", "precinct": "30"}, "3866 W 108TH PL": {"ward": "19", "precinct": "16"}, "3866 N OTTAWA AVE": {"ward": "38", "precinct": "13"}, "3866 N MILWAUKEE AVE": {"ward": "45", "precinct": "8"}, "3866 S LAKE PARK AVE": {"ward": "4", "precinct": "4"}}

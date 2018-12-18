@@ -1,1 +1,1 @@
-{"3074 S LOCK ST": {"precinct": "9", "ward": "11"}, "3074 N DAVLIN CT": {"precinct": "25", "ward": "30"}, "3074 E 79TH ST": {"precinct": "21", "ward": "7"}, "3074 W PALMER ST": {"precinct": "22", "ward": "32"}, "3074 N ELBRIDGE AVE": {"precinct": "6", "ward": "35"}}
+{"3074 N DAVLIN CT": {"ward": "30", "precinct": "25"}, "3074 E 79TH ST": {"ward": "7", "precinct": "21"}, "3074 N ELBRIDGE AVE": {"ward": "35", "precinct": "6"}, "3074 W PALMER ST": {"ward": "32", "precinct": "22"}, "3074 S LOCK ST": {"ward": "11", "precinct": "9"}}

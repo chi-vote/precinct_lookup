@@ -1,1 +1,1 @@
-{"12342 S LOWE AVE": {"precinct": "31", "ward": "34"}, "12342 S INDIANA AVE": {"precinct": "45", "ward": "9"}, "12342 S EMERALD AVE": {"precinct": "31", "ward": "34"}, "12342 S PERRY AVE": {"precinct": "4", "ward": "9"}}
+{"12342 S EMERALD AVE": {"ward": "34", "precinct": "31"}, "12342 S INDIANA AVE": {"ward": "9", "precinct": "45"}, "12342 S PERRY AVE": {"ward": "9", "precinct": "4"}, "12342 S LOWE AVE": {"ward": "34", "precinct": "31"}}

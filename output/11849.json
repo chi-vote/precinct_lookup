@@ -1,1 +1,1 @@
-{"11849 S MICHIGAN AVE": {"precinct": "7", "ward": "9"}, "11849 S STATE ST": {"precinct": "7", "ward": "9"}, "11849 S HALE AVE": {"precinct": "17", "ward": "34"}, "11849 S WENTWORTH AVE": {"precinct": "9", "ward": "34"}, "11849 S INDIANA AVE": {"precinct": "7", "ward": "9"}}
+{"11849 S STATE ST": {"ward": "9", "precinct": "7"}, "11849 S WENTWORTH AVE": {"ward": "34", "precinct": "9"}, "11849 S HALE AVE": {"ward": "34", "precinct": "17"}, "11849 S MICHIGAN AVE": {"ward": "9", "precinct": "7"}, "11849 S INDIANA AVE": {"ward": "9", "precinct": "7"}}

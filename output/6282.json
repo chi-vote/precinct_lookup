@@ -1,1 +1,1 @@
-{"6282 N KOLMAR AVE": {"precinct": "15", "ward": "39"}, "6282 N LEONA AVE": {"precinct": "44", "ward": "39"}, "6282 N LOUISE AVE": {"precinct": "27", "ward": "39"}, "6282 N NIAGARA AVE": {"precinct": "22", "ward": "41"}}
+{"6282 N KOLMAR AVE": {"ward": "39", "precinct": "15"}, "6282 N LOUISE AVE": {"ward": "39", "precinct": "27"}, "6282 N NIAGARA AVE": {"ward": "41", "precinct": "22"}, "6282 N LEONA AVE": {"ward": "39", "precinct": "44"}}

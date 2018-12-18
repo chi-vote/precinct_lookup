@@ -1,1 +1,1 @@
-{"6775 N OXFORD AVE": {"precinct": "5", "ward": "41"}, "6775 N OLMSTED AVE": {"precinct": "5", "ward": "41"}, "6775 W TALCOTT AVE": {"precinct": "30", "ward": "41"}, "6775 N DOWAGIAC AVE": {"precinct": "9", "ward": "41"}, "6775 N JEAN AVE": {"precinct": "6", "ward": "41"}}
+{"6775 N OXFORD AVE": {"ward": "41", "precinct": "5"}, "6775 W TALCOTT AVE": {"ward": "41", "precinct": "30"}, "6775 N DOWAGIAC AVE": {"ward": "41", "precinct": "9"}, "6775 N JEAN AVE": {"ward": "41", "precinct": "6"}, "6775 N OLMSTED AVE": {"ward": "41", "precinct": "5"}}

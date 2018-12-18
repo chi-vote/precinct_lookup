@@ -1,1 +1,1 @@
-{"4667 W 83RD ST": {"precinct": "24", "ward": "18"}, "4667 W 82ND ST": {"precinct": "24", "ward": "18"}, "4667 W 84TH PL": {"precinct": "24", "ward": "18"}, "4667 N LECLAIRE AVE": {"precinct": "15", "ward": "45"}, "4667 N KASSON AVE": {"precinct": "6", "ward": "39"}}
+{"4667 W 83RD ST": {"ward": "18", "precinct": "24"}, "4667 N KASSON AVE": {"ward": "39", "precinct": "6"}, "4667 W 84TH PL": {"ward": "18", "precinct": "24"}, "4667 N LECLAIRE AVE": {"ward": "45", "precinct": "15"}, "4667 W 82ND ST": {"ward": "18", "precinct": "24"}}

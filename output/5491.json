@@ -1,1 +1,1 @@
-{"5491 S HYDE PARK BLVD": {"precinct": "23", "ward": "5"}, "5491 N OCONTO AVE": {"precinct": "45", "ward": "41"}, "5491 N AUSTIN AVE": {"precinct": "40", "ward": "45"}, "5491 S JUSTINE ST": {"precinct": "10", "ward": "16"}}
+{"5491 N OCONTO AVE": {"ward": "41", "precinct": "45"}, "5491 N AUSTIN AVE": {"ward": "45", "precinct": "40"}, "5491 S JUSTINE ST": {"ward": "16", "precinct": "10"}, "5491 S HYDE PARK BLVD": {"ward": "5", "precinct": "23"}}

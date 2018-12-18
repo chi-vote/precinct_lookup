@@ -1,1 +1,1 @@
-{"4764 W BELMONT AVE": {"precinct": "27", "ward": "30"}, "4764 N LAMON AVE": {"precinct": "30", "ward": "45"}, "4764 N VIRGINIA AVE": {"precinct": "8", "ward": "40"}}
+{"4764 W BELMONT AVE": {"ward": "30", "precinct": "27"}, "4764 N LAMON AVE": {"ward": "45", "precinct": "30"}, "4764 N VIRGINIA AVE": {"ward": "40", "precinct": "8"}}

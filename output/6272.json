@@ -1,1 +1,1 @@
-{"6272 N CICERO AVE": {"precinct": "15", "ward": "39"}, "6272 S ARCHER AVE": {"precinct": "14", "ward": "23"}, "6272 N NIAGARA AVE": {"precinct": "22", "ward": "41"}, "6272 W HYACINTH ST": {"precinct": "21", "ward": "39"}}
+{"6272 N CICERO AVE": {"ward": "39", "precinct": "15"}, "6272 N NIAGARA AVE": {"ward": "41", "precinct": "22"}, "6272 S ARCHER AVE": {"ward": "23", "precinct": "14"}, "6272 W HYACINTH ST": {"ward": "39", "precinct": "21"}}

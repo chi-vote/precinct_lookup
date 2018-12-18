@@ -1,1 +1,1 @@
-{"3080 N MILWAUKEE AVE": {"precinct": "18", "ward": "30"}, "3080 N ELSTON AVE": {"precinct": "19", "ward": "33"}, "3080 N DAVLIN CT": {"precinct": "25", "ward": "30"}, "3080 W PALMER ST": {"precinct": "22", "ward": "32"}, "3080 S LYMAN ST": {"precinct": "9", "ward": "11"}}
+{"3080 N DAVLIN CT": {"ward": "30", "precinct": "25"}, "3080 N MILWAUKEE AVE": {"ward": "30", "precinct": "18"}, "3080 W PALMER ST": {"ward": "32", "precinct": "22"}, "3080 S LYMAN ST": {"ward": "11", "precinct": "9"}, "3080 N ELSTON AVE": {"ward": "33", "precinct": "19"}}

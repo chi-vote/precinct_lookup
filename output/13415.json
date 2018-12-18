@@ -1,1 +1,1 @@
-{"13415 S AVENUE M": {"precinct": "3", "ward": "10"}, "13415 S BALTIMORE AVE": {"precinct": "16", "ward": "10"}, "13415 S BRANDON AVE": {"precinct": "16", "ward": "10"}, "13415 S GREEN BAY AVE": {"precinct": "2", "ward": "10"}, "13415 S MACKINAW AVE": {"precinct": "2", "ward": "10"}}
+{"13415 S AVENUE M": {"ward": "10", "precinct": "3"}, "13415 S GREEN BAY AVE": {"ward": "10", "precinct": "2"}, "13415 S MACKINAW AVE": {"ward": "10", "precinct": "2"}, "13415 S BALTIMORE AVE": {"ward": "10", "precinct": "16"}, "13415 S BRANDON AVE": {"ward": "10", "precinct": "16"}}

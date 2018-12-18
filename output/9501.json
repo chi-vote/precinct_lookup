@@ -1,1 +1,1 @@
-{"9501 S RACINE AVE": {"precinct": "49", "ward": "21"}, "9501 S GREEN ST": {"precinct": "41", "ward": "21"}, "9501 S UNION AVE": {"precinct": "5", "ward": "21"}, "9501 S KING DR": {"precinct": "24", "ward": "9"}, "9501 S PEORIA ST": {"precinct": "41", "ward": "21"}}
+{"9501 S GREEN ST": {"ward": "21", "precinct": "41"}, "9501 S KING DR": {"ward": "9", "precinct": "24"}, "9501 S RACINE AVE": {"ward": "21", "precinct": "49"}, "9501 S PEORIA ST": {"ward": "21", "precinct": "41"}, "9501 S UNION AVE": {"ward": "21", "precinct": "5"}}

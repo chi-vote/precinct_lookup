@@ -1,1 +1,1 @@
-{"6168 N WOLCOTT AVE": {"precinct": "35", "ward": "40"}, "6168 S MICHIGAN AVE": {"precinct": "23", "ward": "20"}, "6168 N NASSAU AVE": {"precinct": "22", "ward": "41"}, "6168 N WINTHROP AVE": {"precinct": "32", "ward": "48"}, "6168 N RAVENSWOOD AVE": {"precinct": "35", "ward": "40"}}
+{"6168 N WINTHROP AVE": {"ward": "48", "precinct": "32"}, "6168 S MICHIGAN AVE": {"ward": "20", "precinct": "23"}, "6168 N RAVENSWOOD AVE": {"ward": "40", "precinct": "35"}, "6168 N NASSAU AVE": {"ward": "41", "precinct": "22"}, "6168 N WOLCOTT AVE": {"ward": "40", "precinct": "35"}}

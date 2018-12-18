@@ -1,1 +1,1 @@
-{"3173 S ARCHER AVE": {"precinct": "9", "ward": "12"}, "3173 W MONROE ST": {"precinct": "32", "ward": "28"}, "3173 N PINE GROVE AVE": {"precinct": "1", "ward": "44"}, "3173 S LITUANICA AVE": {"precinct": "5", "ward": "11"}, "3173 N ORCHARD ST": {"precinct": "21", "ward": "44"}}
+{"3173 N PINE GROVE AVE": {"ward": "44", "precinct": "1"}, "3173 N ORCHARD ST": {"ward": "44", "precinct": "21"}, "3173 W MONROE ST": {"ward": "28", "precinct": "32"}, "3173 S LITUANICA AVE": {"ward": "11", "precinct": "5"}, "3173 S ARCHER AVE": {"ward": "12", "precinct": "9"}}

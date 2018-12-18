@@ -1,1 +1,1 @@
-{"11942 S LAFAYETTE AVE": {"precinct": "11", "ward": "9"}, "11942 S PARNELL AVE": {"precinct": "16", "ward": "34"}, "11942 S HARVARD AVE": {"precinct": "16", "ward": "34"}, "11942 S PERRY AVE": {"precinct": "18", "ward": "9"}, "11942 S MICHIGAN AVE": {"precinct": "11", "ward": "9"}}
+{"11942 S LAFAYETTE AVE": {"ward": "9", "precinct": "11"}, "11942 S MICHIGAN AVE": {"ward": "9", "precinct": "11"}, "11942 S PERRY AVE": {"ward": "9", "precinct": "18"}, "11942 S PARNELL AVE": {"ward": "34", "precinct": "16"}, "11942 S HARVARD AVE": {"ward": "34", "precinct": "16"}}

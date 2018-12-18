@@ -1,1 +1,1 @@
-{"979 E 132ND ST": {"precinct": "15", "ward": "9"}, "979 W 37TH PL": {"precinct": "25", "ward": "11"}, "979 W CULLERTON ST": {"precinct": "23", "ward": "25"}, "979 E 101ST ST": {"precinct": "32", "ward": "8"}, "979 W 18TH PL": {"precinct": "12", "ward": "25"}}
+{"979 W 37TH PL": {"ward": "11", "precinct": "25"}, "979 E 101ST ST": {"ward": "8", "precinct": "32"}, "979 E 132ND ST": {"ward": "9", "precinct": "15"}, "979 S STATE ST": {"ward": "4", "precinct": "16"}, "979 W CULLERTON ST": {"ward": "25", "precinct": "23"}, "979 W 18TH PL": {"ward": "25", "precinct": "12"}}

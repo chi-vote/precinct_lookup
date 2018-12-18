@@ -1,1 +1,1 @@
-{"12855 S PEORIA ST": {"precinct": "6", "ward": "34"}, "12855 S COMMERCIAL AVE": {"precinct": "24", "ward": "10"}, "12855 S NORMAL AVE": {"precinct": "39", "ward": "9"}, "12855 S UNION AVE": {"precinct": "19", "ward": "9"}}
+{"12855 S COMMERCIAL AVE": {"ward": "10", "precinct": "24"}, "12855 S UNION AVE": {"ward": "9", "precinct": "19"}, "12855 S PEORIA ST": {"ward": "34", "precinct": "6"}, "12855 S NORMAL AVE": {"ward": "9", "precinct": "39"}}

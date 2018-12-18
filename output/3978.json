@@ -1,1 +1,1 @@
-{"3978 W BARRY AVE": {"precinct": "25", "ward": "30"}, "3978 S DREXEL BLVD": {"precinct": "32", "ward": "4"}}
+{"3978 W BARRY AVE": {"ward": "30", "precinct": "25"}, "3978 S DREXEL BLVD": {"ward": "4", "precinct": "32"}}

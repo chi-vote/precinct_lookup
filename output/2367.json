@@ -1,1 +1,1 @@
-{"2367 N NEWLAND AVE": {"precinct": "27", "ward": "36"}, "2367 E 70TH PL": {"precinct": "26", "ward": "5"}, "2367 N OAK PARK AVE": {"precinct": "3", "ward": "36"}, "2367 N NORMANDY AVE": {"precinct": "30", "ward": "29"}, "2367 N WAYNE AVE": {"precinct": "22", "ward": "2"}}
+{"2367 E 70TH PL": {"ward": "5", "precinct": "26"}, "2367 N OAK PARK AVE": {"ward": "36", "precinct": "3"}, "2367 N WAYNE AVE": {"ward": "2", "precinct": "22"}, "2367 N NORMANDY AVE": {"ward": "29", "precinct": "30"}, "2367 N NEWLAND AVE": {"ward": "36", "precinct": "27"}}

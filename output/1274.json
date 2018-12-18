@@ -1,1 +1,1 @@
-{"1274 W ARDMORE AVE": {"precinct": "40", "ward": "48"}, "1274 W LEXINGTON ST": {"precinct": "28", "ward": "28"}, "1274 W 74TH PL": {"precinct": "5", "ward": "17"}, "1274 W 73RD PL": {"precinct": "5", "ward": "17"}, "1274 W 73RD ST": {"precinct": "5", "ward": "17"}}
+{"1274 W 73RD ST": {"ward": "17", "precinct": "5"}, "1274 W 74TH PL": {"ward": "17", "precinct": "5"}, "1274 W ARDMORE AVE": {"ward": "48", "precinct": "40"}, "1274 W 73RD PL": {"ward": "17", "precinct": "5"}, "1274 W LEXINGTON ST": {"ward": "28", "precinct": "28"}}

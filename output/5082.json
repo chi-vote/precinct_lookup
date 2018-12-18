@@ -1,1 +1,1 @@
-{"5082 W ADAMS ST": {"precinct": "12", "ward": "28"}, "5082 N LINCOLN AVE": {"precinct": "3", "ward": "40"}, "5082 W GLADYS AVE": {"precinct": "31", "ward": "28"}, "5082 W CONGRESS PKWY": {"precinct": "2", "ward": "29"}}
+{"5082 N LINCOLN AVE": {"ward": "40", "precinct": "3"}, "5082 W CONGRESS PKWY": {"ward": "29", "precinct": "2"}, "5082 W ADAMS ST": {"ward": "28", "precinct": "12"}, "5082 W GLADYS AVE": {"ward": "28", "precinct": "31"}}

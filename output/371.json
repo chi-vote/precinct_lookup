@@ -1,1 +1,1 @@
-{"371 N LONG AVE": {"precinct": "11", "ward": "37"}, "371 E 56TH ST": {"precinct": "11", "ward": "20"}, "371 E 89TH ST": {"precinct": "48", "ward": "9"}, "371 E 89TH PL": {"precinct": "48", "ward": "9"}, "371 W ONTARIO ST": {"precinct": "38", "ward": "42"}}
+{"371 E 56TH ST": {"ward": "20", "precinct": "11"}, "371 W ONTARIO ST": {"ward": "42", "precinct": "38"}, "371 E 89TH PL": {"ward": "9", "precinct": "48"}, "371 E 89TH ST": {"ward": "9", "precinct": "48"}, "371 N LONG AVE": {"ward": "37", "precinct": "11"}}

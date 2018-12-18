@@ -1,1 +1,1 @@
-{"1559 N HONORE ST": {"precinct": "25", "ward": "2"}, "1559 E 61ST ST": {"precinct": "33", "ward": "5"}, "1559 N HOYNE AVE": {"precinct": "8", "ward": "1"}, "1559 W 100TH PL": {"precinct": "28", "ward": "19"}, "1559 W PRATT BLVD": {"precinct": "28", "ward": "49"}}
+{"1559 E 61ST ST": {"ward": "5", "precinct": "33"}, "1559 N HOYNE AVE": {"ward": "1", "precinct": "8"}, "1559 N HONORE ST": {"ward": "2", "precinct": "25"}, "1559 W PRATT BLVD": {"ward": "49", "precinct": "28"}, "1559 W 100TH PL": {"ward": "19", "precinct": "28"}}

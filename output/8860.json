@@ -1,1 +1,1 @@
-{"8860 S WINCHESTER AVE": {"precinct": "3", "ward": "21"}, "8860 S WOOD ST": {"precinct": "3", "ward": "21"}, "8860 S YALE AVE": {"precinct": "44", "ward": "21"}, "8860 S HAMILTON AVE": {"precinct": "56", "ward": "19"}}
+{"8860 S WINCHESTER AVE": {"ward": "21", "precinct": "3"}, "8860 S YALE AVE": {"ward": "21", "precinct": "44"}, "8860 S HAMILTON AVE": {"ward": "19", "precinct": "56"}, "8860 S WOOD ST": {"ward": "21", "precinct": "3"}}

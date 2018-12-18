@@ -1,1 +1,1 @@
-{"3577 W SHAKESPEARE AVE": {"precinct": "3", "ward": "35"}, "3577 W LYNDALE ST": {"precinct": "8", "ward": "35"}, "3577 N MILWAUKEE AVE": {"precinct": "28", "ward": "30"}, "3577 W DICKENS AVE": {"precinct": "37", "ward": "26"}, "3577 W MCLEAN AVE": {"precinct": "37", "ward": "26"}}
+{"3577 W DICKENS AVE": {"ward": "26", "precinct": "37"}, "3577 W MCLEAN AVE": {"ward": "26", "precinct": "37"}, "3577 W LYNDALE ST": {"ward": "35", "precinct": "8"}, "3577 N MILWAUKEE AVE": {"ward": "30", "precinct": "28"}, "3577 W SHAKESPEARE AVE": {"ward": "35", "precinct": "3"}}

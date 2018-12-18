@@ -1,1 +1,1 @@
-{"12654 S PRINCETON AVE": {"precinct": "39", "ward": "9"}, "12654 S WALLACE ST": {"precinct": "6", "ward": "9"}, "12654 S UNION AVE": {"precinct": "26", "ward": "34"}, "12654 S EMERALD AVE": {"precinct": "26", "ward": "34"}}
+{"12654 S PRINCETON AVE": {"ward": "9", "precinct": "39"}, "12654 S UNION AVE": {"ward": "34", "precinct": "26"}, "12654 S WALLACE ST": {"ward": "9", "precinct": "6"}, "12654 S EMERALD AVE": {"ward": "34", "precinct": "26"}}

@@ -1,1 +1,1 @@
-{"12642 S STEWART AVE": {"precinct": "39", "ward": "9"}, "12642 S WALLACE ST": {"precinct": "6", "ward": "9"}, "12642 S MUSKEGON AVE": {"precinct": "24", "ward": "10"}, "12642 S MANISTEE AVE": {"precinct": "24", "ward": "10"}, "12642 S HARVARD AVE": {"precinct": "39", "ward": "9"}}
+{"12642 S WALLACE ST": {"ward": "9", "precinct": "6"}, "12642 S STEWART AVE": {"ward": "9", "precinct": "39"}, "12642 S MANISTEE AVE": {"ward": "10", "precinct": "24"}, "12642 S HARVARD AVE": {"ward": "9", "precinct": "39"}, "12642 S MUSKEGON AVE": {"ward": "10", "precinct": "24"}}

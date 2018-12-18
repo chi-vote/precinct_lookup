@@ -1,1 +1,1 @@
-{"5094 W CONGRESS PKWY": {"precinct": "2", "ward": "29"}, "5094 S ARCHER AVE": {"precinct": "8", "ward": "14"}, "5094 W MONROE ST": {"precinct": "12", "ward": "28"}}
+{"5094 W CONGRESS PKWY": {"ward": "29", "precinct": "2"}, "5094 W MONROE ST": {"ward": "28", "precinct": "12"}, "5094 S ARCHER AVE": {"ward": "14", "precinct": "8"}}

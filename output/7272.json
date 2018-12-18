@@ -1,1 +1,1 @@
-{"7272 N ROGERS AVE": {"precinct": "15", "ward": "49"}, "7272 W TALCOTT AVE": {"precinct": "20", "ward": "41"}, "7272 W PALATINE AVE": {"precinct": "37", "ward": "41"}, "7272 W MYRTLE AVE": {"precinct": "31", "ward": "41"}}
+{"7272 N ROGERS AVE": {"ward": "49", "precinct": "15"}, "7272 W PALATINE AVE": {"ward": "41", "precinct": "37"}, "7272 W TALCOTT AVE": {"ward": "41", "precinct": "20"}, "7272 W MYRTLE AVE": {"ward": "41", "precinct": "31"}}

@@ -1,1 +1,1 @@
-{"5486 N MASON AVE": {"precinct": "40", "ward": "45"}, "5486 S ELLIS AVE": {"precinct": "21", "ward": "5"}, "5486 S ARCHER AVE": {"precinct": "22", "ward": "14"}, "5486 S WOODLAWN AVE": {"precinct": "3", "ward": "5"}}
+{"5486 N MASON AVE": {"ward": "45", "precinct": "40"}, "5486 S ARCHER AVE": {"ward": "14", "precinct": "22"}, "5486 S ELLIS AVE": {"ward": "5", "precinct": "21"}, "5486 S WOODLAWN AVE": {"ward": "5", "precinct": "3"}}

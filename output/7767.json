@@ -1,1 +1,1 @@
-{"7767 W ARDMORE AVE": {"precinct": "41", "ward": "41"}, "7767 S EXCHANGE AVE": {"precinct": "14", "ward": "7"}, "7767 W NORTH SHORE AVE": {"precinct": "7", "ward": "41"}, "7767 S SOUTH SHORE DR": {"precinct": "18", "ward": "7"}}
+{"7767 W ARDMORE AVE": {"ward": "41", "precinct": "41"}, "7767 W NORTH SHORE AVE": {"ward": "41", "precinct": "7"}, "7767 S EXCHANGE AVE": {"ward": "7", "precinct": "14"}, "7767 S SOUTH SHORE DR": {"ward": "7", "precinct": "18"}}

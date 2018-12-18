@@ -1,1 +1,1 @@
-{"3465 N KILDARE AVE": {"precinct": "7", "ward": "30"}, "3465 N KARLOV AVE": {"precinct": "28", "ward": "30"}, "3465 S ARCHER AVE": {"precinct": "8", "ward": "12"}, "3465 S LITUANICA AVE": {"precinct": "19", "ward": "11"}, "3465 N KEDZIE AVE": {"precinct": "4", "ward": "35"}}
+{"3465 N KARLOV AVE": {"ward": "30", "precinct": "28"}, "3465 N KEDZIE AVE": {"ward": "35", "precinct": "4"}, "3465 S LITUANICA AVE": {"ward": "11", "precinct": "19"}, "3465 N KILDARE AVE": {"ward": "30", "precinct": "7"}, "3465 S ARCHER AVE": {"ward": "12", "precinct": "8"}}

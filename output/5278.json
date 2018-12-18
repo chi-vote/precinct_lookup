@@ -1,1 +1,1 @@
-{"5278 S KENNETH AVE": {"precinct": "25", "ward": "23"}, "5278 N LUNA AVE": {"precinct": "38", "ward": "45"}, "5278 N LARNED AVE": {"precinct": "35", "ward": "45"}, "5278 N LA CROSSE AVE": {"precinct": "41", "ward": "39"}, "5278 N CICERO AVE": {"precinct": "41", "ward": "39"}}
+{"5278 N CICERO AVE": {"ward": "39", "precinct": "41"}, "5278 N LUNA AVE": {"ward": "45", "precinct": "38"}, "5278 N LARNED AVE": {"ward": "45", "precinct": "35"}, "5278 N LA CROSSE AVE": {"ward": "39", "precinct": "41"}, "5278 S KENNETH AVE": {"ward": "23", "precinct": "25"}}

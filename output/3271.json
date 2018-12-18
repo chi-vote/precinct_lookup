@@ -1,1 +1,1 @@
-{"3271 W WRIGHTWOOD AVE": {"precinct": "10", "ward": "35"}, "3271 W ALTGELD ST": {"precinct": "10", "ward": "35"}, "3271 W 71ST ST": {"precinct": "1", "ward": "17"}, "3271 N WASHTENAW AVE": {"precinct": "9", "ward": "33"}, "3271 S BELL AVE": {"precinct": "32", "ward": "25"}}
+{"3271 W 71ST ST": {"ward": "17", "precinct": "1"}, "3271 N WASHTENAW AVE": {"ward": "33", "precinct": "9"}, "3271 S BELL AVE": {"ward": "25", "precinct": "32"}, "3271 W WRIGHTWOOD AVE": {"ward": "35", "precinct": "10"}, "3271 W ALTGELD ST": {"ward": "35", "precinct": "10"}}

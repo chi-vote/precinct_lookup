@@ -1,1 +1,1 @@
-{"4671 W 82ND ST": {"precinct": "24", "ward": "18"}, "4671 N FORESTVIEW AVE": {"precinct": "2", "ward": "38"}, "4671 N LOWELL AVE": {"precinct": "6", "ward": "39"}, "4671 N KASSON AVE": {"precinct": "6", "ward": "39"}, "4671 N MANOR AVE": {"precinct": "24", "ward": "33"}}
+{"4671 N MANOR AVE": {"ward": "33", "precinct": "24"}, "4671 N LOWELL AVE": {"ward": "39", "precinct": "6"}, "4671 N KASSON AVE": {"ward": "39", "precinct": "6"}, "4671 W 82ND ST": {"ward": "18", "precinct": "24"}, "4671 N FORESTVIEW AVE": {"ward": "38", "precinct": "2"}}

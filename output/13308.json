@@ -1,1 +1,1 @@
-{"13308 S HOUSTON AVE": {"precinct": "17", "ward": "10"}, "13308 S CORLISS AVE": {"precinct": "15", "ward": "9"}, "13308 S AVENUE L": {"precinct": "3", "ward": "10"}, "13308 S BALTIMORE AVE": {"precinct": "16", "ward": "10"}, "13308 S CARONDOLET AVE": {"precinct": "17", "ward": "10"}}
+{"13308 S CARONDOLET AVE": {"ward": "10", "precinct": "17"}, "13308 S CORLISS AVE": {"ward": "9", "precinct": "15"}, "13308 S BALTIMORE AVE": {"ward": "10", "precinct": "16"}, "13308 S AVENUE L": {"ward": "10", "precinct": "3"}, "13308 S HOUSTON AVE": {"ward": "10", "precinct": "17"}}

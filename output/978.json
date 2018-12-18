@@ -1,1 +1,1 @@
-{"978 W 19TH ST": {"precinct": "12", "ward": "25"}, "978 W 18TH PL": {"precinct": "12", "ward": "25"}, "978 S PARK TER": {"precinct": "16", "ward": "4"}, "978 E 100TH PL": {"precinct": "39", "ward": "8"}}
+{"978 W 19TH ST": {"ward": "25", "precinct": "12"}, "978 S PARK TER": {"ward": "4", "precinct": "16"}, "978 E 100TH PL": {"ward": "8", "precinct": "39"}, "978 W 18TH PL": {"ward": "25", "precinct": "12"}}

@@ -1,1 +1,1 @@
-{"7562 W DEVON AVE": {"precinct": "8", "ward": "41"}, "7562 W FOREST PRESERVE AVE": {"precinct": "13", "ward": "38"}, "7562 S HAMILTON AVE": {"precinct": "38", "ward": "18"}, "7562 S COLES AVE": {"precinct": "14", "ward": "7"}, "7562 W PALATINE AVE": {"precinct": "8", "ward": "41"}}
+{"7562 W FOREST PRESERVE AVE": {"ward": "38", "precinct": "13"}, "7562 W DEVON AVE": {"ward": "41", "precinct": "8"}, "7562 S HAMILTON AVE": {"ward": "18", "precinct": "38"}, "7562 W PALATINE AVE": {"ward": "41", "precinct": "8"}, "7562 S COLES AVE": {"ward": "7", "precinct": "14"}}

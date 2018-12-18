@@ -1,1 +1,1 @@
-{"2070 N HUMBOLDT BLVD": {"precinct": "22", "ward": "32"}, "2070 W LUNT AVE": {"precinct": "7", "ward": "50"}, "2070 N OAKLEY AVE": {"precinct": "29", "ward": "32"}, "2070 S STATE ST": {"precinct": "3", "ward": "3"}, "2070 W HUTCHINSON ST": {"precinct": "8", "ward": "47"}}
+{"2070 N OAKLEY AVE": {"ward": "32", "precinct": "29"}, "2070 W LUNT AVE": {"ward": "50", "precinct": "7"}, "2070 S STATE ST": {"ward": "3", "precinct": "3"}, "2070 W HUTCHINSON ST": {"ward": "47", "precinct": "8"}, "2070 N HUMBOLDT BLVD": {"ward": "32", "precinct": "22"}}

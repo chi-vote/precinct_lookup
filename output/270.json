@@ -1,1 +1,1 @@
-{"270 W 25TH PL": {"precinct": "30", "ward": "11"}, "270 W 95TH ST": {"precinct": "38", "ward": "21"}, "270 N CALIFORNIA AVE": {"precinct": "36", "ward": "27"}, "270 N ALBANY AVE": {"precinct": "26", "ward": "27"}, "270 E PEARSON ST": {"precinct": "11", "ward": "2"}}
+{"270 W 25TH PL": {"ward": "11", "precinct": "30"}, "270 N ALBANY AVE": {"ward": "27", "precinct": "26"}, "270 N CALIFORNIA AVE": {"ward": "27", "precinct": "36"}, "270 W 95TH ST": {"ward": "21", "precinct": "38"}, "270 E PEARSON ST": {"ward": "2", "precinct": "11"}}

@@ -1,1 +1,1 @@
-{"2482 S BLUE ISLAND AVE": {"precinct": "26", "ward": "25"}, "2482 N LINCOLN AVE": {"precinct": "16", "ward": "43"}, "2482 W ESTES AVE": {"precinct": "6", "ward": "50"}}
+{"2482 S BLUE ISLAND AVE": {"ward": "25", "precinct": "26"}, "2482 W ESTES AVE": {"ward": "50", "precinct": "6"}, "2482 N LINCOLN AVE": {"ward": "43", "precinct": "16"}}

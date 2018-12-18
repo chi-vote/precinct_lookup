@@ -1,1 +1,1 @@
-{"2370 N NEWCASTLE AVE": {"precinct": "27", "ward": "36"}, "2370 N ELSTON AVE": {"precinct": "37", "ward": "32"}, "2370 E 69TH ST": {"precinct": "32", "ward": "5"}, "2370 E 71ST ST": {"precinct": "26", "ward": "5"}}
+{"2370 N NEWCASTLE AVE": {"ward": "36", "precinct": "27"}, "2370 N ELSTON AVE": {"ward": "32", "precinct": "37"}, "2370 E 71ST ST": {"ward": "5", "precinct": "26"}, "2370 E 69TH ST": {"ward": "5", "precinct": "32"}}

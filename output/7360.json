@@ -1,1 +1,1 @@
-{"7360 W FARWELL AVE": {"precinct": "10", "ward": "41"}, "7360 S KING DR": {"precinct": "33", "ward": "6"}, "7360 N HOYNE AVE": {"precinct": "24", "ward": "49"}, "7360 N SEELEY AVE": {"precinct": "24", "ward": "49"}, "7360 N DAMEN AVE": {"precinct": "19", "ward": "49"}}
+{"7360 W FARWELL AVE": {"ward": "41", "precinct": "10"}, "7360 N HOYNE AVE": {"ward": "49", "precinct": "24"}, "7360 N DAMEN AVE": {"ward": "49", "precinct": "19"}, "7360 S KING DR": {"ward": "6", "precinct": "33"}, "7360 N SEELEY AVE": {"ward": "49", "precinct": "24"}}

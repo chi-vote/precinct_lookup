@@ -1,1 +1,1 @@
-{"6089 N TROY ST": {"precinct": "23", "ward": "50"}, "6089 N NEWBURG AVE": {"precinct": "21", "ward": "41"}, "6089 N NAVARRE AVE": {"precinct": "22", "ward": "41"}, "6089 N NASSAU AVE": {"precinct": "35", "ward": "41"}}
+{"6089 N TROY ST": {"ward": "50", "precinct": "23"}, "6089 N NEWBURG AVE": {"ward": "41", "precinct": "21"}, "6089 N NASSAU AVE": {"ward": "41", "precinct": "35"}, "6089 N NAVARRE AVE": {"ward": "41", "precinct": "22"}}

@@ -1,1 +1,1 @@
-{"5571 W MONROE ST": {"precinct": "16", "ward": "29"}, "5571 W CONGRESS PKWY": {"precinct": "42", "ward": "29"}, "5571 W JACKSON BLVD": {"precinct": "42", "ward": "29"}, "5571 W QUINCY ST": {"precinct": "16", "ward": "29"}, "5571 W GLADYS AVE": {"precinct": "42", "ward": "29"}}
+{"5571 W MONROE ST": {"ward": "29", "precinct": "16"}, "5571 W CONGRESS PKWY": {"ward": "29", "precinct": "42"}, "5571 W GLADYS AVE": {"ward": "29", "precinct": "42"}, "5571 W QUINCY ST": {"ward": "29", "precinct": "16"}, "5571 W JACKSON BLVD": {"ward": "29", "precinct": "42"}}

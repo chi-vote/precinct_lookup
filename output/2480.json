@@ -1,1 +1,1 @@
-{"2480 N ALBANY AVE": {"precinct": "11", "ward": "32"}, "2480 N LINCOLN AVE": {"precinct": "16", "ward": "43"}, "2480 W ESTES AVE": {"precinct": "6", "ward": "50"}, "2480 N ORCHARD ST": {"precinct": "21", "ward": "43"}, "2480 N LAKEVIEW AVE": {"precinct": "27", "ward": "43"}}
+{"2480 W ESTES AVE": {"ward": "50", "precinct": "6"}, "2480 N LAKEVIEW AVE": {"ward": "43", "precinct": "27"}, "2480 N ALBANY AVE": {"ward": "32", "precinct": "11"}, "2480 N LINCOLN AVE": {"ward": "43", "precinct": "16"}, "2480 N ORCHARD ST": {"ward": "43", "precinct": "21"}}

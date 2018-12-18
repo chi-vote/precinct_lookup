@@ -1,1 +1,1 @@
-{"4194 N ELSTON AVE": {"precinct": "28", "ward": "39"}, "4194 N CLARENDON AVE": {"precinct": "35", "ward": "46"}, "4194 S WALLACE ST": {"precinct": "31", "ward": "11"}}
+{"4194 N ELSTON AVE": {"ward": "39", "precinct": "28"}, "4194 S WALLACE ST": {"ward": "11", "precinct": "31"}, "4194 N CLARENDON AVE": {"ward": "46", "precinct": "35"}}

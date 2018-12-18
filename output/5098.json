@@ -1,1 +1,1 @@
-{"5098 W CONGRESS PKWY": {"precinct": "2", "ward": "29"}, "5098 S ARCHER AVE": {"precinct": "8", "ward": "14"}, "5098 W GLADYS AVE": {"precinct": "31", "ward": "28"}, "5098 W MONROE ST": {"precinct": "12", "ward": "28"}}
+{"5098 W GLADYS AVE": {"ward": "28", "precinct": "31"}, "5098 W MONROE ST": {"ward": "28", "precinct": "12"}, "5098 S ARCHER AVE": {"ward": "14", "precinct": "8"}, "5098 W MONROE": {"ward": "28", "precinct": "12"}, "5098 W CONGRESS PKWY": {"ward": "29", "precinct": "2"}}

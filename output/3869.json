@@ -1,1 +1,1 @@
-{"3869 W 108TH ST": {"precinct": "16", "ward": "19"}, "3869 W 107TH PL": {"precinct": "16", "ward": "19"}, "3869 N ORIOLE AVE": {"precinct": "13", "ward": "38"}, "3869 N OTTAWA AVE": {"precinct": "13", "ward": "38"}, "3869 N KENTON CT": {"precinct": "8", "ward": "45"}}
+{"3869 N ORIOLE AVE": {"ward": "38", "precinct": "13"}, "3869 W 107TH PL": {"ward": "19", "precinct": "16"}, "3869 N OTTAWA AVE": {"ward": "38", "precinct": "13"}, "3869 N KENTON CT": {"ward": "45", "precinct": "8"}, "3869 W 108TH ST": {"ward": "19", "precinct": "16"}}

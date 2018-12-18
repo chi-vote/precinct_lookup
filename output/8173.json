@@ -1,1 +1,1 @@
-{"8173 S KOSTNER AVE": {"precinct": "25", "ward": "18"}, "8173 S KARLOV AVE": {"precinct": "25", "ward": "18"}, "8173 S KNOX AVE": {"precinct": "30", "ward": "18"}, "8173 S SCOTTSDALE AVE": {"precinct": "30", "ward": "18"}}
+{"8173 S KOSTNER AVE": {"ward": "18", "precinct": "25"}, "8173 S SCOTTSDALE AVE": {"ward": "18", "precinct": "30"}, "8173 S KARLOV AVE": {"ward": "18", "precinct": "25"}, "8173 S KNOX AVE": {"ward": "18", "precinct": "30"}}

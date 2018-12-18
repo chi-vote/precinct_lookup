@@ -1,1 +1,1 @@
-{"12514 S UNION AVE": {"precinct": "26", "ward": "34"}, "12514 S WENTWORTH AVE": {"precinct": "44", "ward": "9"}, "12514 S PRINCETON AVE": {"precinct": "39", "ward": "9"}, "12514 S LA SALLE ST": {"precinct": "44", "ward": "9"}}
+{"12514 S UNION AVE": {"ward": "34", "precinct": "26"}, "12514 S WENTWORTH AVE": {"ward": "9", "precinct": "44"}, "12514 S LA SALLE ST": {"ward": "9", "precinct": "44"}, "12514 S PRINCETON AVE": {"ward": "9", "precinct": "39"}}

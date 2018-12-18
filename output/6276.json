@@ -1,1 +1,1 @@
-{"6276 W NORTH AVE": {"precinct": "12", "ward": "29"}, "6276 N AVONDALE AVE": {"precinct": "17", "ward": "41"}, "6276 N CICERO AVE": {"precinct": "15", "ward": "39"}, "6276 N NIAGARA AVE": {"precinct": "22", "ward": "41"}}
+{"6276 W NORTH AVE": {"ward": "29", "precinct": "12"}, "6276 N AVONDALE AVE": {"ward": "41", "precinct": "17"}, "6276 N CICERO AVE": {"ward": "39", "precinct": "15"}, "6276 N NIAGARA AVE": {"ward": "41", "precinct": "22"}}

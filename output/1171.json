@@ -1,1 +1,1 @@
-{"1171 E 53RD ST": {"precinct": "3", "ward": "5"}, "1171 E 101ST ST": {"precinct": "32", "ward": "8"}, "1171 W 18TH ST": {"precinct": "28", "ward": "25"}, "1171 E 61ST ST": {"precinct": "34", "ward": "20"}}
+{"1171 E 53RD ST": {"ward": "5", "precinct": "3"}, "1171 W 18TH ST": {"ward": "25", "precinct": "28"}, "1171 E 101ST ST": {"ward": "8", "precinct": "32"}, "1171 E 61ST ST": {"ward": "20", "precinct": "34"}}

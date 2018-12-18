@@ -1,1 +1,1 @@
-{"7373 N DAMEN AVE": {"precinct": "33", "ward": "49"}, "7373 S SOUTH SHORE DR": {"precinct": "9", "ward": "7"}, "7373 S HOYNE AVE": {"precinct": "37", "ward": "17"}}
+{"7373 N DAMEN AVE": {"ward": "49", "precinct": "33"}, "7373 S HOYNE AVE": {"ward": "17", "precinct": "37"}, "7373 S SOUTH SHORE DR": {"ward": "7", "precinct": "9"}}

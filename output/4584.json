@@ -1,1 +1,1 @@
-{"4584 N MOBILE AVE": {"precinct": "18", "ward": "38"}, "4584 N MCVICKER AVE": {"precinct": "14", "ward": "38"}, "4584 N MEADE AVE": {"precinct": "14", "ward": "38"}, "4584 N MERRIMAC AVE": {"precinct": "18", "ward": "38"}, "4584 S OAKENWALD AVE": {"precinct": "10", "ward": "4"}}
+{"4584 N MCVICKER AVE": {"ward": "38", "precinct": "14"}, "4584 N MERRIMAC AVE": {"ward": "38", "precinct": "18"}, "4584 S OAKENWALD AVE": {"ward": "4", "precinct": "10"}, "4584 N MEADE AVE": {"ward": "38", "precinct": "14"}, "4584 N MOBILE AVE": {"ward": "38", "precinct": "18"}}

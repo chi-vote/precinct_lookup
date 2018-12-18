@@ -1,1 +1,1 @@
-{"5679 W GOODMAN ST": {"precinct": "20", "ward": "45"}, "5679 N ROGERS AVE": {"precinct": "4", "ward": "39"}, "5679 N RIDGE AVE": {"precinct": "1", "ward": "48"}, "5679 W HIGGINS AVE": {"precinct": "28", "ward": "45"}}
+{"5679 W GOODMAN ST": {"ward": "45", "precinct": "20"}, "5679 N RIDGE AVE": {"ward": "48", "precinct": "1"}, "5679 N ROGERS AVE": {"ward": "39", "precinct": "4"}, "5679 W HIGGINS AVE": {"ward": "45", "precinct": "28"}}

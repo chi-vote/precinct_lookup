@@ -1,1 +1,1 @@
-{"13255 S MACKINAW AVE": {"precinct": "2", "ward": "10"}, "13255 S COMMERCIAL AVE": {"precinct": "17", "ward": "10"}, "13255 S KING DR": {"precinct": "26", "ward": "9"}, "13255 S ELLIS AVE": {"precinct": "15", "ward": "9"}, "13255 S EXCHANGE AVE": {"precinct": "17", "ward": "10"}}
+{"13255 S MACKINAW AVE": {"ward": "10", "precinct": "2"}, "13255 S COMMERCIAL AVE": {"ward": "10", "precinct": "17"}, "13255 S EXCHANGE AVE": {"ward": "10", "precinct": "17"}, "13255 S ELLIS AVE": {"ward": "9", "precinct": "15"}, "13255 S KING DR": {"ward": "9", "precinct": "26"}}

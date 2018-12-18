@@ -1,1 +1,1 @@
-{"4966 N KILBOURN AVE": {"precinct": "9", "ward": "39"}, "4966 N SPAULDING AVE": {"precinct": "2", "ward": "33"}, "4966 N KILPATRICK AVE": {"precinct": "9", "ward": "39"}, "4966 N MASON AVE": {"precinct": "22", "ward": "45"}, "4966 W MADISON ST": {"precinct": "39", "ward": "28"}}
+{"4966 N KILPATRICK AVE": {"ward": "39", "precinct": "9"}, "4966 N KILBOURN AVE": {"ward": "39", "precinct": "9"}, "4966 N MASON AVE": {"ward": "45", "precinct": "22"}, "4966 N SPAULDING AVE": {"ward": "33", "precinct": "2"}, "4966 W MADISON ST": {"ward": "28", "precinct": "39"}}

@@ -1,1 +1,1 @@
-{"7465 N MARSHFIELD AVE": {"precinct": "5", "ward": "49"}, "7465 W ROSEDALE AVE": {"precinct": "43", "ward": "41"}, "7465 S SOUTH SHORE DR": {"precinct": "13", "ward": "7"}, "7465 N SEELEY AVE": {"precinct": "19", "ward": "49"}}
+{"7465 N MARSHFIELD AVE": {"ward": "49", "precinct": "5"}, "7465 N SEELEY AVE": {"ward": "49", "precinct": "19"}, "7465 S SOUTH SHORE DR": {"ward": "7", "precinct": "13"}, "7465 W ROSEDALE AVE": {"ward": "41", "precinct": "43"}}

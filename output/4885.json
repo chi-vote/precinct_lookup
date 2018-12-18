@@ -1,1 +1,1 @@
-{"4885 N PAULINA ST": {"precinct": "30", "ward": "47"}, "4885 N MASON AVE": {"precinct": "29", "ward": "45"}, "4885 N ASHLAND AVE": {"precinct": "30", "ward": "47"}, "4885 N AUSTIN AVE": {"precinct": "22", "ward": "45"}, "4885 N WOLCOTT AVE": {"precinct": "26", "ward": "47"}}
+{"4885 N AUSTIN AVE": {"ward": "45", "precinct": "22"}, "4885 N ASHLAND AVE": {"ward": "47", "precinct": "30"}, "4885 N WOLCOTT AVE": {"ward": "47", "precinct": "26"}, "4885 N PAULINA ST": {"ward": "47", "precinct": "30"}, "4885 N MASON AVE": {"ward": "45", "precinct": "29"}}

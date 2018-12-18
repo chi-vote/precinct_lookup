@@ -1,1 +1,1 @@
-{"12511 S LOWE AVE": {"precinct": "6", "ward": "9"}, "12511 S PRINCETON AVE": {"precinct": "39", "ward": "9"}, "12511 S UNION AVE": {"precinct": "6", "ward": "9"}, "12511 S STEWART AVE": {"precinct": "39", "ward": "9"}, "12511 S STATE ST": {"precinct": "41", "ward": "9"}}
+{"12511 S STATE ST": {"ward": "9", "precinct": "41"}, "12511 S PRINCETON AVE": {"ward": "9", "precinct": "39"}, "12511 S LOWE AVE": {"ward": "9", "precinct": "6"}, "12511 S UNION AVE": {"ward": "9", "precinct": "6"}, "12511 S STEWART AVE": {"ward": "9", "precinct": "39"}}

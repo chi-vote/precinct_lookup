@@ -1,1 +1,1 @@
-{"5370 S MAPLEWOOD AVE": {"precinct": "14", "ward": "14"}, "5370 N NORMANDY AVE": {"precinct": "30", "ward": "41"}, "5370 W LAWRENCE AVE": {"precinct": "19", "ward": "45"}, "5370 N LYNCH AVE": {"precinct": "37", "ward": "45"}, "5370 N CENTRAL AVE": {"precinct": "38", "ward": "45"}}
+{"5370 W LAWRENCE AVE": {"ward": "45", "precinct": "19"}, "5370 N NORMANDY AVE": {"ward": "41", "precinct": "30"}, "5370 N CENTRAL AVE": {"ward": "45", "precinct": "38"}, "5370 S MAPLEWOOD AVE": {"ward": "14", "precinct": "14"}, "5370 N LYNCH AVE": {"ward": "45", "precinct": "37"}}

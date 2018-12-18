@@ -1,1 +1,1 @@
-{"12305 S WENTWORTH AVE": {"precinct": "4", "ward": "9"}, "12305 S UNION AVE": {"precinct": "31", "ward": "34"}, "12305 S PRINCETON AVE": {"precinct": "3", "ward": "34"}, "12305 S STATE ST": {"precinct": "4", "ward": "9"}}
+{"12305 S UNION AVE": {"ward": "34", "precinct": "31"}, "12305 S STATE ST": {"ward": "9", "precinct": "4"}, "12305 S PRINCETON AVE": {"ward": "34", "precinct": "3"}, "12305 S WENTWORTH AVE": {"ward": "9", "precinct": "4"}}

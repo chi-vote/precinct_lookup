@@ -1,1 +1,1 @@
-{"12928 S EGGLESTON AVE": {"precinct": "39", "ward": "9"}, "12928 S ESCANABA AVE": {"precinct": "24", "ward": "10"}, "12928 S EXCHANGE AVE": {"precinct": "24", "ward": "10"}, "12928 S SAGINAW AVE": {"precinct": "9", "ward": "10"}, "12928 S MANISTEE AVE": {"precinct": "9", "ward": "10"}}
+{"12928 S EGGLESTON AVE": {"ward": "9", "precinct": "39"}, "12928 S MANISTEE AVE": {"ward": "10", "precinct": "9"}, "12928 S EXCHANGE AVE": {"ward": "10", "precinct": "24"}, "12928 S SAGINAW AVE": {"ward": "10", "precinct": "9"}, "12928 S ESCANABA AVE": {"ward": "10", "precinct": "24"}}

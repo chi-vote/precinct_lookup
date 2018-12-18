@@ -1,1 +1,1 @@
-{"12616 S YALE AVE": {"precinct": "39", "ward": "9"}, "12616 S MICHIGAN AVE": {"precinct": "41", "ward": "9"}, "12616 S EDBROOKE AVE": {"precinct": "41", "ward": "9"}, "12616 S EMERALD AVE": {"precinct": "26", "ward": "34"}, "12616 S HARVARD AVE": {"precinct": "39", "ward": "9"}}
+{"12616 S YALE AVE": {"ward": "9", "precinct": "39"}, "12616 S MICHIGAN AVE": {"ward": "9", "precinct": "41"}, "12616 S EDBROOKE AVE": {"ward": "9", "precinct": "41"}, "12616 S EMERALD AVE": {"ward": "34", "precinct": "26"}, "12616 S HARVARD AVE": {"ward": "9", "precinct": "39"}}

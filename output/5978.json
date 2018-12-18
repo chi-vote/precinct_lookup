@@ -1,1 +1,1 @@
-{"5978 N LEADER AVE": {"precinct": "43", "ward": "39"}, "5978 N MANTON AVE": {"precinct": "23", "ward": "39"}, "5978 N LANDERS AVE": {"precinct": "43", "ward": "39"}, "5978 N LINCOLN AVE": {"precinct": "29", "ward": "40"}}
+{"5978 N LEADER AVE": {"ward": "39", "precinct": "43"}, "5978 N LINCOLN AVE": {"ward": "40", "precinct": "29"}, "5978 N MANTON AVE": {"ward": "39", "precinct": "23"}, "5978 N LANDERS AVE": {"ward": "39", "precinct": "43"}}

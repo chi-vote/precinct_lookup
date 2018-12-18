@@ -1,1 +1,1 @@
-{"2076 W GREENLEAF AVE": {"precinct": "7", "ward": "50"}, "2076 N STAVE ST": {"precinct": "13", "ward": "1"}, "2076 N HUMBOLDT BLVD": {"precinct": "22", "ward": "32"}, "2076 N HOYNE AVE": {"precinct": "34", "ward": "32"}, "2076 N CAMPBELL AVE": {"precinct": "9", "ward": "1"}}
+{"2076 N CAMPBELL AVE": {"ward": "1", "precinct": "9"}, "2076 N STAVE ST": {"ward": "1", "precinct": "13"}, "2076 N HUMBOLDT BLVD": {"ward": "32", "precinct": "22"}, "2076 N HOYNE AVE": {"ward": "32", "precinct": "34"}, "2076 W GREENLEAF AVE": {"ward": "50", "precinct": "7"}}

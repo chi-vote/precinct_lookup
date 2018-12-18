@@ -1,1 +1,1 @@
-{"12008 S PERRY AVE": {"precinct": "18", "ward": "9"}, "12008 S WALLACE ST": {"precinct": "31", "ward": "34"}, "12008 S EGGLESTON AVE": {"precinct": "16", "ward": "34"}, "12008 S MICHIGAN AVE": {"precinct": "11", "ward": "9"}, "12008 S YALE AVE": {"precinct": "16", "ward": "34"}}
+{"12008 S WALLACE ST": {"ward": "34", "precinct": "31"}, "12008 S MICHIGAN AVE": {"ward": "9", "precinct": "11"}, "12008 S PERRY AVE": {"ward": "9", "precinct": "18"}, "12008 S YALE AVE": {"ward": "34", "precinct": "16"}, "12008 S EGGLESTON AVE": {"ward": "34", "precinct": "16"}}

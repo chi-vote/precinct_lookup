@@ -1,1 +1,1 @@
-{"7466 N ASHLAND AVE": {"precinct": "5", "ward": "49"}, "7466 W SEMINOLE ST": {"precinct": "43", "ward": "41"}, "7466 W GREGORY ST": {"precinct": "45", "ward": "41"}, "7466 N DAMEN AVE": {"precinct": "19", "ward": "49"}}
+{"7466 N ASHLAND AVE": {"ward": "49", "precinct": "5"}, "7466 W GREGORY ST": {"ward": "41", "precinct": "45"}, "7466 N DAMEN AVE": {"ward": "49", "precinct": "19"}, "7466 W SEMINOLE ST": {"ward": "41", "precinct": "43"}}

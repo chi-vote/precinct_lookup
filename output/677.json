@@ -1,1 +1,1 @@
-{"677 W WRIGHTWOOD AVE": {"precinct": "40", "ward": "43"}, "677 W ROSCOE ST": {"precinct": "33", "ward": "44"}, "677 N MILWAUKEE AVE": {"precinct": "1", "ward": "27"}, "677 E 131ST ST": {"precinct": "15", "ward": "9"}, "677 E 100TH ST": {"precinct": "13", "ward": "9"}}
+{"677 W ROSCOE ST": {"ward": "44", "precinct": "33"}, "677 W WRIGHTWOOD AVE": {"ward": "43", "precinct": "40"}, "677 E 100TH ST": {"ward": "9", "precinct": "13"}, "677 E 131ST ST": {"ward": "9", "precinct": "15"}, "677 N MILWAUKEE AVE": {"ward": "27", "precinct": "1"}}
